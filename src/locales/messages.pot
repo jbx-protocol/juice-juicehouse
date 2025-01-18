@@ -2786,6 +2786,9 @@ msgstr ""
 msgid "Transfer unclaimed {0}"
 msgstr ""
 
+msgid "Ok"
+msgstr ""
+
 msgid "Cannot set payouts because your <0>Total payouts</0> is Zero."
 msgstr ""
 
